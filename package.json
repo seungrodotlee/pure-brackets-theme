@@ -1,0 +1,15 @@
+{
+  "name": "pure-brackets-theme",
+  "title": "The Pure",
+  "description": "The light theme by seungro lee",
+  "homepage": "https://github.com/yourname/my-shiny-theme",
+  "version": "1.0.0",
+  "author": "Seungro Lee (srlee0226w@gmail.com)",
+  "license": "MIT",
+  "theme": {
+    "file": "theme.less",
+    "dark": false,
+    "addModeClass": true
+  },
+  "keywords": ["light", "white", "theme"]
+}
